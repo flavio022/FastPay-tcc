@@ -1,0 +1,22 @@
+{
+  "name": "fastpay.api",
+  "version": "1.0.0",
+  "description": "Api feita em nodeJs para utilizacao do aplicativo fastPay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flavio022/FastPay-tcc.git"
+  },
+  "author": "Flavio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flavio022/FastPay-tcc/issues"
+  },
+  "homepage": "https://github.com/flavio022/FastPay-tcc#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
